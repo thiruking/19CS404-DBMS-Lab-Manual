@@ -72,3 +72,7 @@ University / Hospital (choose one)
 Brief explanation of why you chose certain entities, relationships, and assumptions
 
 ## RESULT
+In this experiment, we successfully designed an Entity-Relationship (ER) diagram for a University
+Database System. The ER diagram identifies key entities such as University, Courses, Students, and
+Timetable, along with their respective attributes. The relationships among these entities-Offers, Takes,
+and Has-were established with appropriate cardinality and participation constraints.
